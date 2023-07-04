@@ -1,0 +1,6 @@
+name= input ("What is your name? ")
+address= input ("What is your address? ")
+telephoneNumber= input("What is your telephone number? ")
+print (name)
+print (address)
+print (telephoneNumber)
